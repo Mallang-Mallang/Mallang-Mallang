@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align=center>
+<div>
 
 </br>
 
@@ -10,6 +10,7 @@
 
 ![Mallang-Mallang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallang-Mallang&count_private=true&show_icons=true&theme=react)
 
+[![Mallang-Mallang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallang-Mallang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Mallang-Mallang)
 </div>
 
 <!--
