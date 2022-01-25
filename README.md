@@ -4,6 +4,14 @@
 
 </div>
 
+<div align=center>
+
+### 👋 Hi
+  
+Hello, I am a college student studying development.
+  
+</div>
+
 
 <div align=center>
 
