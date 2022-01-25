@@ -36,7 +36,7 @@ Hello, I am a college student studying development.
 <br>
 
 ![Mallang-Mallang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallang-Mallang&count_private=true&show_icons=true&theme=react)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mallang-Mallang&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=AEF71D&text_color=AEF71D&icon_color=FFFFFF"/>
+<img align="left" src="(https://github-readme-stats.vercel.app/api?username=Mallang-Mallang&count_private=true&show_icons=true&theme=react"/>
 
 <br>
   
