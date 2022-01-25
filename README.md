@@ -36,11 +36,11 @@ Hello, I am a college student studying development.
 <br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mallang-Mallang&count_private=true&show_icons=true&theme=react"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mallang-Mallang&count_private=true&show_icons=true&theme=react"/>
 
 <br>
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallang-Mallang&layout=compact&hide_border=true&card_width=300&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallang-Mallang&layout=compact&hide_border=true&card_width=300&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
   
 
 </div>
